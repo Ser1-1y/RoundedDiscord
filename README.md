@@ -36,3 +36,7 @@ Download the latest `RoundedDiscord.theme.css` file in
 [release](https://github.com/Ser1-1y/RoundedDiscord/releases/latest) or by
 [this link](https://Ser1-1y.github.io/RoundedDiscord/RoundedDiscord.theme.css) and move it into
 `Theme` file.
+
+#### Credits
+
+[Fluent Discord](https://github.com/TakosThings/Fluent-Discord)
