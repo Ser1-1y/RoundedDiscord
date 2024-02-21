@@ -7,9 +7,10 @@
 [![BD](https://img.shields.io/badge/Better-Discord-3a71c1?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPCFET0NUWVBFIHN2ZyBQVUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhpY3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4KPHN2ZyB2ZXJzaW9uPSIxLjEiIGlkPSJDYWxxdWVfMSIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIiB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIgeD0iMHB4IiB5PSIwcHgiIHZpZXdCb3g9IjAgMCAyMDAwIDIwMDAiIGVuYWJsZS1iYWNrZ3JvdW5kPSJuZXcgMCAwIDIwMDAgMjAwMCIgeG1sOnNwYWNlPSJwcmVzZXJ2ZSI+PGc+PHBhdGggZmlsbD0iIzNFODJFNSIgZD0iTTE0MDIuMiw2MzEuN2MtOS43LTM1My40LTI4Ni4yLTQ5Ni02NDIuNi00OTZINjguNHY3MTQuMWw0NDIsMzk4VjQ5MC43aDI1N2MyNzQuNSwwLDI3NC41LDM0NC45LDAsMzQ0LjlINTk3LjZ2MzI5LjVoMTY5LjhjMjc0LjUsMCwyNzQuNSwzNDQuOCwwLDM0NC44aC02OTl2MzU0LjloNjkxLjJjMzU2LjMsMCw2MzIuOC0xNDIuNiw2NDIuNi00OTZjMC0xNjIuNi00NC41LTI4NC4xLTEyMi45LTM2OC42QzEzNTcuNyw5MTUuOCwxNDAyLjIsNzk0LjMsMTQwMi4yLDYzMS43eiIvPjxwYXRoIGZpbGw9IiNGRkZGRkYiIGQ9Ik0xMjYyLjUsMTM1LjJMMTI2Mi41LDEzNS4ybC03Ni44LDBjMjYuNiwxMy4zLDUxLjcsMjguMSw3NSw0NC4zYzcwLjcsNDkuMSwxMjYuMSwxMTEuNSwxNjQuNiwxODUuM2MzOS45LDc2LjYsNjEuNSwxNjUuNiw2NC4zLDI2NC42bDAsMS4ydjEuMmMwLDE0MS4xLDAsNTk2LjEsMCw3MzcuMXYxLjJsMCwxLjJjLTIuNyw5OS0yNC4zLDE4OC02NC4zLDI2NC42Yy0zOC41LDczLjgtOTMuOCwxMzYuMi0xNjQuNiwxODUuM2MtMjIuNiwxNS43LTQ2LjksMzAuMS03Mi42LDQzLjFoNzIuNWMzNDYuMiwxLjksNjcxLTE3MS4yLDY3MS01NjcuOVY3MTYuN0MxOTMzLjUsMzEyLjIsMTYwOC43LDEzNS4yLDEyNjIuNSwxMzUuMnoiLz48L2c+PC9zdmc+&style=flat&labelColor=black)](https://betterdiscord.app/)
 
 [![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://Ser1-1y.github.io/RoundedDiscord/RoundedDiscord.theme.css)
+|                                                                                |                                                                                     |
+| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
+| ![preview](https://github.com/Ser1-1y/RoundedDiscord/blob/main/src/preview_dark.png?raw=true) | ![preview_win](https://github.com/Ser1-1y/RoundedDiscord/blob/main/src/preview_nitro.png?raw=true) |
 
-![preview](https://Ser1-1y.github.io/RoundedDiscord/src/preview_dark.png)
-![preview_win](https://Ser1-1y.github.io/RoundedDiscord/src/preview_nitro.png)
 </div><br/>
 
 #### - All themes supported.
