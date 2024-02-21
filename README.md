@@ -8,9 +8,8 @@
 
 [![Preview](https://img.shields.io/badge/Preview-5865F2?logo=Discord&style=for-the-badge&labelColor=black)](https://gibbu.github.io/ThemePreview/?file=https://Ser1-1y.github.io/RoundedDiscord/RoundedDiscord.theme.css)
 
-| Dark Theme                                                                     | Nitro Theme                                                                         |
-| ------------------------------------------------------------------------------ | ----------------------------------------------------------------------------------- |
-| ![preview](https://Ser1-1y.github.io/RoundedDiscord/src/preview_dark.png) | ![preview_win](https://Ser1-1y.github.io/RoundedDiscord/src/preview_nitro.png) |
+![preview](https://Ser1-1y.github.io/RoundedDiscord/src/preview_dark.png)
+![preview_win](https://Ser1-1y.github.io/RoundedDiscord/src/preview_nitro.png)
 </div><br/>
 
 #### - All themes supported.
