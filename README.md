@@ -41,8 +41,6 @@ You can change border radius, font and other settings in the `RoundedDiscord.the
 :root {
   --radius: 12px; /* Border radius */
   --app-font: "Google Sans"; /* Changing main font */
-  --user-panel-style: column; /* column - vertical, row - discord default */
-  --user-panel-alignment: center; /* styles: center - bottom, flex-start - bottom-left */
 }
 ```
 
