@@ -12,4 +12,5 @@
 
 :root {
   --radius: 12px; /** Border radius */
+  --app-font: "Google Sans";
 }
