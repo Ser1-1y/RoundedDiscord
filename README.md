@@ -34,13 +34,15 @@ Download the latest `RoundedDiscord.theme.css` file in
 
 ### Settings
 
-You can change border radius and font in the `RoundedDiscord.theme.css`:
+You can change border radius, font and other settings in the `RoundedDiscord.theme.css`:
 
 ```css
 @import url(https://capnkitten.github.io/BetterDiscord/Themes/Material-Discord/css/fonts/google-sans.css); /* Importing fonts from some cool guy */
 :root {
   --radius: 12px; /* Border radius */
   --app-font: "Google Sans"; /* Changing main font */
+  --user-panel-style: column; /* column - vertical, row - discord default */
+  --user-panel-alignment: center; /* styles: center - bottom, flex-start - bottom-left */
 }
 ```
 
